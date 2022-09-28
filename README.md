@@ -16,3 +16,4 @@
 
 * GitHub Pages
 1. https://pages.github.com/
+2. https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages
